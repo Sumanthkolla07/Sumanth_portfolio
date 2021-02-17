@@ -1,2 +1,2 @@
-# https://sumanthkolla07.github.io/
+# https://Sumanthkolla07.github.io/
 My personal portfolio website
